@@ -6,6 +6,7 @@ This project might make the scene alive on your computer!
 ## GIFs
 | ![Screen 1](https://www.linkpicture.com/q/no_trail_less.gif) | ![Screen 2](https://www.linkpicture.com/q/no_trail_more.gif) |
 |--|--|
+| ![Screen 3](https://www.linkpicture.com/q/2020-09-14-01-57-46.gif)
 
 ## Features
 - Stars flying from far gets larger when closer
