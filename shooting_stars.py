@@ -18,7 +18,7 @@ pg.display.set_icon(scr)
 
 showingMeteors = True
 
-## update the speed of the stars 
+## show and update the speed of the stars 
 def draw():
     speed = (pg.mouse.get_pos()[0] / width) * 10
     for each in stars:
@@ -57,10 +57,10 @@ class Star:
 
             ## uncomment this line if you want the trail from some distance away
             ## instead of the star's origin position
-            #self.oz = self.z + 50
+            self.oz = self.z + 50
         
 ## initialize the stars, you may change the number of stars 
-num_of_stars = 250
+num_of_stars = 800
 stars = [Star() for i in range(num_of_stars)]
 
 ## main loop
