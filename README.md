@@ -17,8 +17,8 @@ This project might make the scene alive on your computer!
 
 |   action  |             control                |
 |-----------|------------------------------------|
-| Speed Up  | <kbd>Move The Mouse To Right</kbd> |
-| Slow Down | <kbd>Move The Mouse To Right</kbd> |
+| Speed Up  | <kbd>Move The Mouse To the Right</kbd> |
+| Slow Down | <kbd>Move The Mouse To the Left</kbd> |
 
 ## Dependencies
 You will need the `pygame` package for this game.
