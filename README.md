@@ -1,12 +1,12 @@
-## ShootingStars
+## Shooting-Stars
 
 Have you ever imagine being in a spaceship looking at the stars flying through you? <br>
 This project might make the scene alive on your computer!
 
 ## GIFs
-| ![Screen 1](https://www.linkpicture.com/q/no_trail_less.gif) | ![Screen 2](https://www.linkpicture.com/q/no_trail_more.gif) |
+| ![Screen 1](https://github.com/JasonFengGit/ShootingStars/blob/master/GIFs/no_trail_less.gif?raw=true) | ![Screen 2](https://github.com/JasonFengGit/Shooting-Stars/blob/master/GIFs/no_trail_more.gif?raw=true) |
 |--|--|
-| ![Screen 3](https://www.linkpicture.com/q/2020-09-14-01-57-46.gif)| ![Screen 3](https://github.com/JasonFengGit/ShootingStars/blob/master/GIFs/trail_from_distance_away.gif?raw=true)|
+| ![Screen 3](https://github.com/JasonFengGit/Shooting-Stars/blob/master/GIFs/trail_from_origin.gif?raw=true)| ![Screen 3](https://github.com/JasonFengGit/ShootingStars/blob/master/GIFs/trail_from_distance_away.gif?raw=true)|
 
 ## Features
 - Stars flying from far gets larger when closer
